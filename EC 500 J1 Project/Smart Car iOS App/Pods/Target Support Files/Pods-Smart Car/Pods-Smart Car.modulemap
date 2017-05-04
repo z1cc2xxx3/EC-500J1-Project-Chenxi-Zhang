@@ -1,0 +1,6 @@
+framework module Pods_Smart_Car {
+  umbrella header "Pods-Smart Car-umbrella.h"
+
+  export *
+  module * { export * }
+}
